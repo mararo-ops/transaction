@@ -101,4 +101,4 @@ Contributions to the React Transaction Management App are most welcome! To contr
 We appreciate your efforts in making this app even better!
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the  BSD-2-Clause license.
